@@ -1,1 +1,1 @@
-# Annapoorani4545-OCaml_based_quantitative_trading_solutions
+# OCaml_based_quantitative_trading_solutions
